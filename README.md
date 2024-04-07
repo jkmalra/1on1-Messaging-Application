@@ -1,4 +1,4 @@
-Messaging Application
+<h1> Messaging Application </h1>
 
 One On One Chat application | Spring boot & WebSocket | By Jaskaran Singh
 
@@ -13,8 +13,8 @@ Before diving into the code, a special mention for those keen on deepening their
 ---
 
 #### Here is a demo of the application
+![app-preview](https://github.com/JaskaranMain/Messaging-Application/assets/113015414/f1217706-1dd8-4584-90f3-08793bf59f4f)
 
-![Future application](./app-preview.png)
 
 ## Table of Contents
 
@@ -27,11 +27,11 @@ Before diving into the code, a special mention for those keen on deepening their
 - Secure communication
 - Persistent chat
 
-![WebSocket Chat Flow](./one_to_one_comm.png)
+![one_to_one_comm](https://github.com/JaskaranMain/Messaging-Application/assets/113015414/88ef5157-cdc8-4331-a157-5180ec73e29f)
+
 
 ---
-
-![WebSocket Chat Flow](./websocket_chat_flow.png)
+![websocket_chat_flow](https://github.com/JaskaranMain/Messaging-Application/assets/113015414/b9c449fa-faaa-4249-ab8a-2cfa193fcfed)
 
 ---
 ---

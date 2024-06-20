@@ -12,10 +12,6 @@ Before diving into the code, a special mention for those keen on deepening their
 
 ---
 
-#### Here is a demo of the application
-![app-preview](https://github.com/JaskaranMain/Messaging-Application/assets/113015414/f1217706-1dd8-4584-90f3-08793bf59f4f)
-
-
 ## Table of Contents
 
 - [Features](#features)

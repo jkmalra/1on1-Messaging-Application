@@ -30,16 +30,6 @@ Before diving into the code, a special mention for those keen on deepening their
 ![websocket_chat_flow](https://github.com/JaskaranMain/Messaging-Application/assets/113015414/b9c449fa-faaa-4249-ab8a-2cfa193fcfed)
 
 ---
----
-## Technologies
 
-This project is mainly implement using the following technologies
-
-- Websocket
-- Spring Boot 3.x.x
-- MongoDB
-- Javascript
-- HTML
-- CSS
 
 ---
